@@ -18,4 +18,6 @@ Autor: Javier Gallego
 
 ## Notas
 
-Repositorio de prácticas de la UT2.
+Repositorio de practicas de la UT2.
+
+[CONTRIBUTING.md](CONTRIBUTING.md)
